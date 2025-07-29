@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5e -->
+
+<!-- CreationDate: Sat Jun 18 11:03:54 2016 -->
+
+<!-- Magnification: 1.050 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="633.90143"
+   height="368.84869"
+   viewBox="455 -16 8473.4553 4874.9501"
+   id="svg3021"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Kugel-schale.svg">
+  <metadata
+     id="metadata3065">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3063" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1258"
+     inkscape:window-height="599"
+     id="namedview3061"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:zoom="0.65555556"
+     inkscape:cx="316.91332"
+     inkscape:cy="184.31211"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3021" />
+  <g
+     style="fill:none;stroke-width:0.025in"
+     id="g3023"
+     transform="translate(85.727833,60.640826)">
+    <!-- Ellipse -->
+    <ellipse
+       transform="translate(6850,1889)"
+       rx="1889"
+       ry="377"
+       style="fill:#87cfff;stroke:#000000;stroke-width:16"
+       id="ellipse3025"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1889"
+       sodipodi:ry="377"
+       d="M 1889,0 C 1889,208.21135 1043.2659,377 0,377 -1043.2659,377 -1889,208.21135 -1889,0 c 0,-208.21135 845.7341,-377 1889,-377 1043.2659,0 1889,168.78865 1889,377 z" />
+    <!-- Circle -->
+    <circle
+       cx="2362"
+       cy="2362"
+       r="1890"
+       style="fill:#87cfff;stroke:#000000;stroke-width:16"
+       id="circle3027"
+       sodipodi:cx="2362"
+       sodipodi:cy="2362"
+       sodipodi:rx="1890"
+       sodipodi:ry="1890"
+       d="M 4252,2362 C 4252,3405.8182 3405.8182,4252 2362,4252 1318.1818,4252 472,3405.8182 472,2362 472,1318.1818 1318.1818,472 2362,472 c 1043.8182,0 1890,846.1818 1890,1890 z" />
+    <!-- Line -->
+    <polyline
+       points="2314,2362 3543,1559 "
+       style="stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline3029" />
+    <!-- Line -->
+    <polyline
+       points="2362,2362 4251,2362 "
+       style="stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline3031" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="3212"
+       y="2692"
+       font-style="italic"
+       font-weight="normal"
+       font-size="252"
+       id="text3033"
+       style="font-size:252px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times">R</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2881"
+       y="1842"
+       font-style="italic"
+       font-weight="normal"
+       font-size="252"
+       id="text3035"
+       style="font-size:252px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times">r</text>
+    <!-- Arc -->
+    <path
+       style="fill:#87cfff;stroke:#000000;stroke-width:16;stroke-linecap:butt"
+       d="m 4960,2834 a 1890,1890 0 0 0 3780,0"
+       id="path3037"
+       inkscape:connector-curvature="0" />
+    <!-- Arc -->
+    <path
+       style="fill:#87cfff;stroke:#000000;stroke-width:16;stroke-linecap:butt"
+       d="m 4960,1889 a 1890,1890 0 0 1 3780,0"
+       id="path3039"
+       inkscape:connector-curvature="0" />
+    <!-- Circle -->
+    <circle
+       cx="2362"
+       cy="2362"
+       r="1417"
+       style="stroke:#000000;stroke-width:8;stroke-dasharray:62, 62"
+       id="circle3041"
+       sodipodi:cx="2362"
+       sodipodi:cy="2362"
+       sodipodi:rx="1417"
+       sodipodi:ry="1417"
+       d="m 3779,2362 c 0,782.5875 -634.4125,1417 -1417,1417 -782.5875,0 -1417,-634.4125 -1417,-1417 0,-782.5875 634.4125,-1417 1417,-1417 782.5875,0 1417,634.4125 1417,1417 z" />
+    <!-- Ellipse -->
+    <ellipse
+       transform="translate(6850,2834)"
+       rx="1889"
+       ry="377"
+       style="fill:#5e90b2;stroke:#000000;stroke-width:16"
+       id="ellipse3043"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1889"
+       sodipodi:ry="377"
+       d="M 1889,0 C 1889,208.21135 1043.2659,377 0,377 -1043.2659,377 -1889,208.21135 -1889,0 c 0,-208.21135 845.7341,-377 1889,-377 1043.2659,0 1889,168.78865 1889,377 z" />
+    <!-- Ellipse -->
+    <ellipse
+       transform="translate(6850,2834)"
+       rx="1417"
+       ry="283"
+       style="fill:#ffff00;stroke:#000000;stroke-width:16"
+       id="ellipse3045"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1417"
+       sodipodi:ry="283"
+       d="M 1417,0 C 1417,156.29658 782.58749,283 0,283 -782.58749,283 -1417,156.29658 -1417,0 c 0,-156.29658 634.41251,-283 1417,-283 782.58749,0 1417,126.70342 1417,283 z" />
+    <!-- Ellipse -->
+    <ellipse
+       transform="translate(6851,1889)"
+       rx="1417"
+       ry="283"
+       style="stroke:#000000;stroke-width:8;stroke-dasharray:62, 62"
+       id="ellipse3047"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1417"
+       sodipodi:ry="283"
+       d="M 1417,0 C 1417,156.29658 782.58749,283 0,283 -782.58749,283 -1417,156.29658 -1417,0 c 0,-156.29658 634.41251,-283 1417,-283 782.58749,0 1417,126.70342 1417,283 z" />
+    <!-- Arc -->
+    <path
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-dasharray:62, 62"
+       d="m 5433,2834 a 1417,1417 0 0 0 2834,0"
+       id="path3049"
+       inkscape:connector-curvature="0" />
+    <!-- Arc -->
+    <path
+       style="stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-dasharray:62, 62"
+       d="m 5433,1889 a 1417,1417 0 0 1 2834,0"
+       id="path3051"
+       inkscape:connector-curvature="0" />
+    <!-- Ellipse -->
+    <ellipse
+       transform="translate(6850,1889)"
+       rx="1889"
+       ry="377"
+       style="stroke:#000000;stroke-width:8;stroke-dasharray:62, 62"
+       id="ellipse3053"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1889"
+       sodipodi:ry="377"
+       d="M 1889,0 C 1889,208.21135 1043.2659,377 0,377 -1043.2659,377 -1889,208.21135 -1889,0 c 0,-208.21135 845.7341,-377 1889,-377 1043.2659,0 1889,168.78865 1889,377 z" />
+    <!-- Circle -->
+    <circle
+       cx="6850"
+       cy="2834"
+       r="37"
+       style="fill:#000000;stroke:#000000;stroke-width:8"
+       id="circle3055"
+       sodipodi:cx="6850"
+       sodipodi:cy="2834"
+       sodipodi:rx="37"
+       sodipodi:ry="37"
+       d="m 6887,2834 c 0,20.4345 -16.5655,37 -37,37 -20.4345,0 -37,-16.5655 -37,-37 0,-20.4345 16.5655,-37 37,-37 20.4345,0 37,16.5655 37,37 z" />
+    <!-- Circle -->
+    <circle
+       cx="6850"
+       cy="1889"
+       r="37"
+       style="fill:#000000;stroke:#000000;stroke-width:8"
+       id="circle3057"
+       sodipodi:cx="6850"
+       sodipodi:cy="1889"
+       sodipodi:rx="37"
+       sodipodi:ry="37"
+       d="m 6887,1889 c 0,20.4345 -16.5655,37 -37,37 -20.4345,0 -37,-16.5655 -37,-37 0,-20.4345 16.5655,-37 37,-37 20.4345,0 37,16.5655 37,37 z" />
+    <!-- Circle -->
+    <circle
+       cx="2314"
+       cy="2362"
+       r="37"
+       style="fill:#000000;stroke:#000000;stroke-width:8"
+       id="circle3059"
+       sodipodi:cx="2314"
+       sodipodi:cy="2362"
+       sodipodi:rx="37"
+       sodipodi:ry="37"
+       d="m 2351,2362 c 0,20.4345 -16.5655,37 -37,37 -20.4345,0 -37,-16.5655 -37,-37 0,-20.4345 16.5655,-37 37,-37 20.4345,0 37,16.5655 37,37 z" />
+  </g>
+</svg>
